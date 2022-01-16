@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+
+body {
+    font-family: sans-serif;
+}
+header{ 
+   background-color:skyblue ;
+   padding: 10px; 
+}
+header a{
+    border:1px solid peachpuff;
+    border-radius: 10px;
+    padding: 5px;
+    background-color:rgb(21, 176, 233);
+    text-decoration: rgba(red, rgb(129, 168, 129), rgb(121, 121, 216), alpha);
+}
+
+h1{
+    color: crimson;
+    font-size: 50px;
+    border-bottom:2px solid lawngreen;
+    text-align: center;
+
+}
+
+footer{
+   background-color: rgb(100, 204, 218); 
+   color:rgb(12, 2, 1);
+}
+
+nav a{
+    background: chartreuse;
+    text-decoration: cyan;
+    padding: 5px;
+    border: 1px solid navajowhite;
+
+    border-radius: 20px;
